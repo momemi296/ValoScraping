@@ -16,4 +16,4 @@ https://developer.chrome.com/docs/chromedriver/downloads?hl=ja
 3. match_url_getter.pyを実行します。イベントで行われた試合(match)のurlを取得します。
 4. match_result_getter.pyを実行します。試合結果をjsonl形式で取得します。
 
-取得したURLや試合結果などは、output_filesディレクトリ以下に出力されます。
+取得したURLや試合結果などは、output_filesディレクトリ以下に出力されます。用途に応じて手動で編集するなどしてください。また、必要に応じてpythonファイルを編集して利用してください。
